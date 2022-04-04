@@ -8,6 +8,7 @@ public class Tetris2 {
         System.out.println("Prueba 2 dia");
         System.out.println("TRABAJO DE PACO ");
         System.out.println("PACO AYUDA");
+        System.out.println("La vida es triste");
         
     }
     
